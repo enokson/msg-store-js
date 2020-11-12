@@ -1,5 +1,5 @@
 {
-  "name": "store-and-forward-client-js",
+  "name": "msg-store-js",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
