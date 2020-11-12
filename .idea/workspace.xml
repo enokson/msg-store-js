@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b3b238a-9057-48fa-90ea-1c099ce20e85" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="3uhbwakq" />
+  </component>
+  <component name="ProjectId" id="1k55JZgt1nKHasuqh6fdgZAV75k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../store-and-forward-browser" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="npm.run">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="run" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.run" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b3b238a-9057-48fa-90ea-1c099ce20e85" name="Default Changelist" comment="" />
+      <created>1604977540399</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604977540399</updated>
+      <workItem from="1604977541583" duration="657000" />
+      <workItem from="1604978208683" duration="18169000" />
+      <workItem from="1605077334851" duration="17000" />
+      <workItem from="1605077361072" duration="4271000" />
+      <workItem from="1605102490345" duration="7210000" />
+      <workItem from="1605164103762" duration="5824000" />
+      <workItem from="1605181829878" duration="6018000" />
+      <workItem from="1605201220838" duration="1848000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="698" y="355" width="586" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604978068334">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="698" y="355" width="586" height="403" key="#com.intellij.fileTypes.FileTypeChooser/72.27.1848.1053@72.27.1848.1053" timestamp="1604978068334" />
+    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1605201225608">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1605201225608" />
+    <state width="1825" height="464" key="GridCell.Tab.0.bottom" timestamp="1605072317066">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1825" height="464" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1605072317066" />
+    <state width="1825" height="464" key="GridCell.Tab.0.center" timestamp="1605072317066">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1825" height="464" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1605072317066" />
+    <state width="1825" height="464" key="GridCell.Tab.0.left" timestamp="1605072317065">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1825" height="464" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1605072317065" />
+    <state width="1825" height="464" key="GridCell.Tab.0.right" timestamp="1605072317066">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1825" height="464" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1605072317066" />
+  </component>
+</project>
